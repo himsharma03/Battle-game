@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\bin\Debug\net6.0\TurnBasedBattle.exe
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\bin\Debug\net6.0\TurnBasedBattle.deps.json
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\bin\Debug\net6.0\TurnBasedBattle.runtimeconfig.json
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\bin\Debug\net6.0\TurnBasedBattle.dll
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\bin\Debug\net6.0\TurnBasedBattle.pdb
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\TurnBasedBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\TurnBasedBattle.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\TurnBasedBattle.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\TurnBasedBattle.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\TurnBasedBattle.dll
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\refint\TurnBasedBattle.dll
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\TurnBasedBattle.pdb
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\TurnBasedBattle.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\C-Sharp-Turn-Based-Battle-main\C-Sharp-Turn-Based-Battle-main\TurnBasedBattle\TurnBasedBattle\obj\Debug\net6.0\ref\TurnBasedBattle.dll
